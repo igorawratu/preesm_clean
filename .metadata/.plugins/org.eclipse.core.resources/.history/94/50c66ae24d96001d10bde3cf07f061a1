@@ -1,0 +1,6 @@
+#ifndef CLEAN_H_
+#define CLEAN_H_
+
+void FindPeak();
+
+#endif

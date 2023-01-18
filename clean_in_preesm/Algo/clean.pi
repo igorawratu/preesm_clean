@@ -7,8 +7,9 @@
     <graph edgedefault="directed">
         <data key="name">clean</data>
         <node id="FindPeak" kind="actor"/>
-        <node id="SubtractPeak" kind="actor"/>
+        <node id="SubtractBeamAt" kind="actor"/>
         <node id="AddToModel" kind="actor"/>
-        <node id="Convolve" kind="actor"/>
+        <node id="Convolve2D" kind="actor"/>
+        <node id="DisplayImage" kind="actor"/>
     </graph>
 </graphml>

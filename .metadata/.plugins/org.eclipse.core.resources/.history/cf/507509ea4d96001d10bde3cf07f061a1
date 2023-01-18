@@ -1,0 +1,8 @@
+#ifndef CLEAN_H_
+#define CLEAN_H_
+
+#include ""
+
+void FindPeak(int img_width, int );
+
+#endif
