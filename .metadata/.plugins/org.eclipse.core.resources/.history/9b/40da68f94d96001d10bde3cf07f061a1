@@ -1,8 +1,0 @@
-#ifndef CLEAN_H_
-#define CLEAN_H_
-
-#include <>
-
-void FindPeak(std::uint32_t img_width, int );
-
-#endif
